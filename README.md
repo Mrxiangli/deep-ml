@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 23 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-27 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-11-16 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-11-15 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-11-16 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-15 | [solution](problems/0107-implement-masked-self-attention) |
