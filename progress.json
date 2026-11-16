@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:55:43.429Z",
+  "generated_at": "2026-11-16T16:09:31.972Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -218,9 +218,9 @@
       "url": "https://www.deep-ml.com/problems/107",
       "path": "problems/0107-implement-masked-self-attention",
       "first_solved_at": "2026-11-15T05:13:12.805Z",
-      "last_pushed_at": "2026-11-15T05:13:12.805Z",
+      "last_pushed_at": "2026-11-16T16:09:30.735Z",
       "language": "python",
-      "lines": 25
+      "lines": 21
     },
     "problem:271": {
       "kind": "problem",
