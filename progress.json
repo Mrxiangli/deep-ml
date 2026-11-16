@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:04:32.846Z",
+  "generated_at": "2026-11-16T15:06:08.261Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -286,6 +286,19 @@
       "last_pushed_at": "2026-11-16T14:04:31.954Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:391": {
+      "kind": "problem",
+      "id": "391",
+      "title": "Implement Grouped Query Attention (GQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/391",
+      "path": "problems/0391-implement-grouped-query-attention-gqa",
+      "first_solved_at": "2026-11-16T15:06:07.313Z",
+      "last_pushed_at": "2026-11-16T15:06:07.313Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
