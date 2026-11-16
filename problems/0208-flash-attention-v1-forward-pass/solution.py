@@ -41,7 +41,7 @@ def flash_attention_forward(Q: np.ndarray, K: np.ndarray, V: np.ndarray,
             correction = np.exp(m - m_new)
             weights = np.exp(scores - m_new)  # Unnormalized
 
-            l = correction * l + weights.sum(axis=-1, keepdims=True)
+            l = correction * l + np.sum(weights, axis=-1, keepdims=True)
             A = correction * A + weights @ v_block
             m = m_new
 
